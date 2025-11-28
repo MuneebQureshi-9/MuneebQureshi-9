@@ -1,16 +1,27 @@
-## Hi there 👋
+# Muneeb Qureshi — Web Developer & Digital Strategist
 
-<!--
-**MuneebQureshi-9/MuneebQureshi-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build clean, efficient, and user-focused web solutions with a strong understanding of how real businesses operate online. My work blends development with digital marketing, allowing me to create websites, e-commerce stores, and systems that actually convert—not just look good.
 
-Here are some ideas to get you started:
+## What I Do
+- Develop functional websites using modern web technologies  
+- Build e-commerce stores on Shopify and WordPress  
+- Create practical PHP/Laravel applications  
+- Manage social media growth and digital marketing strategies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Frontend: HTML, CSS, JavaScript  
+- Backend: PHP, Laravel  
+- Database: MySQL  
+- CMS & E-commerce: Shopify, WordPress  
+- Additional: Social Media Management, Digital Marketing  
+
+## Projects
+- **E-commerce Stores** – Shopify & WordPress setups optimized for conversion  
+- **Laravel Web Apps** – Practical business tools and management systems  
+- **Portfolio Websites** – Fast, clean, and responsive UI builds  
+- **Digital Marketing Systems** – Social media growth workflows and strategies  
+
+## Contact
+- GitHub: github.com/MuneebQureshi-9  
+- Email: web.muneeb90@gmail.com
+- Instagram: @meet.muneeb
