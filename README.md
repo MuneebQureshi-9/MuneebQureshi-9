@@ -54,7 +54,7 @@ Beyond client work, I build with a product mindset — architecting SaaS tools w
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css" />
+<img src="https://skillicons.dev/icons?i=js,php,python,html,css" />
 
 **Frontend**
 
@@ -62,7 +62,7 @@ Beyond client work, I build with a product mindset — architecting SaaS tools w
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres,supabase" />
 
 **Cloud, DevOps & Tooling**
 
