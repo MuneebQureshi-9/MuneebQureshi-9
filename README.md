@@ -1,27 +1,383 @@
-# 💫 About Me:
-Full-Stack Web Developer<br>Hi, I'm Muneeb Qureshi, a Full-Stack Web Developer based in Karachi, Pakistan. My journey in tech started with a deep curiosity for how things work on the internet, which led me to dive fully into web development. Since 2022, I've been building websites and web apps that are not only visually appealing but also highly functional. Working day to day, I utilize technologies across the full stack—PHP and MySQL on the backend, HTML/CSS/JavaScript and React/Next.js on the frontend, alongside creating custom Shopify stores.<br><br>For me, trust and transparency are just as important as the code itself. I believe in clear communication, delivering on time, and writing clean, maintainable code that won't break when you need it most. My goal isn't just to launch a website, but to build a reliable digital foundation for your business. I stand by my work with ongoing support to ensure your long-term success.<br><br>Currently, I'm part of the team at Digithronex, where I handle client projects from the first conversation all the way to launch. In my career, I've successfully delivered over 50 projects for a variety of happy clients worldwide. When I'm not coding, I'm exploring the latest tech trends, learning new frameworks, or brainstorming my next big idea. If you're looking for a dependable web developer, feel free to reach out.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:2d0a4e,100:0f0520&height=220&section=header&text=Muneeb%20Ahmed&fontSize=52&fontColor=c9a7ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Product%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/muneeb.qureshi.849763) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/meet.muneeb/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muneeb-qureshi-772872258/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:web.muneeb90@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+products;PHP+%2B+Laravel+%2B+Next.js+%2B+Supabase;Shipping+for+clients+across+4+countries;Exploring+AI%2FML+%26+agentic+systems" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuneebQureshi-9&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MuneebQureshi-9&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebQureshi-9&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuneebQureshi-9&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://img.shields.io/badge/Bachelor's-Business_%26_IT-6D28D9?style=flat-square&labelColor=1a0033"/>
+<img src="https://img.shields.io/badge/Aptech-Diploma_in_IT-7C3AED?style=flat-square&labelColor=1a0033"/>
+<img src="https://img.shields.io/badge/📍_Karachi,_Pakistan-8B5CF6?style=flat-square&labelColor=1a0033"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br/><br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MuneebQureshi-9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://muneeb.codes"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/muneeb-codes"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hi@muneeb.codes"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/muneebcodes"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=muneebcodes&label=Profile+Views&color=6D28D9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/muneebcodes?label=Followers&style=flat-square&color=7C3AED&labelColor=1a0033"/>
+<img src="https://img.shields.io/github/stars/muneebcodes?label=Stars&style=flat-square&color=8B5CF6&labelColor=1a0033"/>
+
+</div>
+
+<br/>
+
+## 🧬 About Me
+
+```yaml
+name: "Muneeb Qureshi"
+role: "Full Stack Developer"
+focus: ["Software Engineering", "AI/ML Systems", "Product Engineering"]
+location: "Karachi, Pakistan"
+experience: "1.5+ years across freelance, agency, and product work"
+```
+
+I'm a full-stack engineer who builds production web applications end to end — architecture, backend, frontend, and deployment. My core stack is **PHP/Laravel** and the **React/Next.js** ecosystem, backed by **MySQL, PostgreSQL, and Supabase**. I've shipped 15+ production sites and platforms for clients across Pakistan, the UAE, Canada, and the UK, including MLS-integrated real estate platforms, payment systems, and booking engines.
+
+Beyond client work, I build with a product mindset — architecting SaaS tools with proper multi-tenant auth, billing, and role-based access, and experimenting with AI/ML integrations (LLM orchestration, agentic workflows, RAG) in hackathon and side-project settings.
+
+**🔭 Open To:**
+- Full-stack / backend engineering roles (remote-first)
+- Freelance and contract web development
+- Collaborations on AI-integrated products
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,postgres,supabase" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode,figma,vercel,wordpress" />
+
+<br/>
+
+## 🤖 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **LLM Integration** | ⭐⭐⭐⭐ | Groq (Llama 3.3 70B), OpenAI/Claude API orchestration, prompt engineering |
+| **Agentic Systems** | ⭐⭐⭐ | Multi-step AI workflows, tool-calling pipelines, autonomous task agents |
+| **AI-Assisted Engineering** | ⭐⭐⭐⭐⭐ | Claude, GitHub Copilot, Cursor, v0.dev in daily production workflow |
+| **Applied ML Products** | ⭐⭐⭐ | Built AI-powered crisis management platform for a national hackathon |
+| **Responsible AI** | ⭐⭐⭐ | Certified in AI-responsible-use practices and prompt safety fundamentals |
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🌆 CIRO — Crisis Intelligence & Response Orchestrator</b></summary>
+<br/>
+
+AI-powered urban crisis management platform built for the AI Seekho 2026 Google Antigravity National Hackathon, designed to help coordinate emergency response across Karachi in real time.
+
+| | |
+|---|---|
+| **Stack** | FastAPI, Supabase, Groq (Llama 3.3 70B Versatile), React Native / Expo |
+| **Scale** | City-wide crisis coordination simulation |
+| **Performance** | Low-latency LLM inference via Groq for real-time response generation |
+| **Security** | Supabase auth + role-scoped data access |
+| **Impact** | National hackathon submission — participation certificate awarded |
+| **Repository** | *Private / available on request* |
+
+Designed the orchestration layer that routes incoming crisis reports through an LLM pipeline to classify severity and recommend response actions, with a mobile-first React Native interface for field use.
+
+</details>
+
+<details>
+<summary><b>🏠 HousesAndHomesToronto.com</b></summary>
+<br/>
+
+A dark-luxury editorial real estate platform for a Toronto agent, with live MLS-connected listings.
+
+| | |
+|---|---|
+| **Stack** | PHP, MySQL, CREA DDF API |
+| **Scale** | Full MLS-connected listing catalog |
+| **Performance** | Server-rendered PHP for fast first-load on listing pages |
+| **Security** | IDX-compliant data handling per CREA DDF terms |
+| **Impact** | Client's primary lead-generation and listing channel |
+| **Repository** | *Private — client project* |
+
+Built a custom editorial design system from scratch (design brief, typography system, and API integration spec), integrating the CREA DDF API for compliant, MLS-connected property listings rather than relying on WordPress/IDX plugins.
+
+</details>
+
+<details>
+<summary><b>📚 PookyBooks.com</b></summary>
+<br/>
+
+A conversion-focused Laravel platform for a multi-service ebook brand.
+
+| | |
+|---|---|
+| **Stack** | Laravel, MySQL, Tawk.to |
+| **Scale** | Full product catalog with service pages |
+| **Performance** | Optimized Blade views for fast catalog browsing |
+| **Security** | Laravel's built-in auth and CSRF protections |
+| **Impact** | Live chat support integration for direct customer conversion |
+| **Repository** | *Private — client project* |
+
+Delivered a Laravel-based conversion-focused design system supporting the client's full catalog, with Tawk.to live chat integrated for real-time customer support.
+
+</details>
+
+<details>
+<summary><b>💳 Debt Collection Service Platform</b></summary>
+<br/>
+
+A secure client-facing service platform with authenticated flows and transactional email.
+
+| | |
+|---|---|
+| **Stack** | Node.js, Express, Supabase, Render, Web3Forms |
+| **Scale** | Production authentication + notification pipeline |
+| **Performance** | Deployed on Render with persistent session handling |
+| **Security** | Fixed password-persistence vulnerability, added show/hide toggle |
+| **Impact** | Reliable client onboarding and email notification flow |
+| **Repository** | *Private — client project* |
+
+Hardened the authentication flow and wired up Web3Forms for transactional email notifications on a Node/Express + Supabase backend deployed to Render.
+
+</details>
+
+<details>
+<summary><b>🔐 ClientFlow — White-Labeled Onboarding SaaS</b></summary>
+<br/>
+
+A B2B SaaS onboarding portal that agencies can white-label for their own clients.
+
+| | |
+|---|---|
+| **Stack** | Next.js, Supabase (SSR auth + PostgreSQL RLS), dnd-kit, Zustand, Resend, Stripe/Paddle |
+| **Scale** | Multi-tenant architecture with row-level security |
+| **Performance** | Client-side drag-and-drop template builder with optimistic UI |
+| **Security** | Postgres RLS policies + Supabase SSR session handling |
+| **Impact** | Full spec + build completed; exploring AI feature additions for a Gemini hackathon |
+| **Repository** | *Private / in active development* |
+
+Architected a full white-label SaaS product — template builder, billing via Paddle as Merchant of Record, and transactional email via Resend — with plans to add an AI Client Profiler, AI Email Writer, and AI Progress Summary.
+
+</details>
+
+<br/>
+
+## 💼 Experience
+
+<div align="center">
+
+### Freelance Associate Full Stack Developer
+**Self-Employed** | Remote (Pakistan, UAE, Canada, UK clients)
+`Feb 2025 – Present`
+
+</div>
+
+- Delivered 15+ production websites and web applications for clients across Pakistan, UAE, Canada, and UK, independently handling requirements, architecture, front-end, back-end, and deployment for each project
+- Built a PHP and MySQL editorial website for a Toronto real estate agent, integrating the CREA DDF API for IDX-compliant, MLS-connected property listings
+- Developed a mobile-first booking website for a farmhouse venue, establishing the client's first professional web presence and a direct online booking channel
+
+`PHP` `Laravel` `JavaScript` `React.js` `Next.js` `Node.js`
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MuneebQureshi-9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### WordPress + Custom Developer
+**Next Filer** | Karachi, Pakistan
+`Apr 2026 – Jun 2026`
+
+</div>
+
+- Architected a secure payment platform in PHP and MySQL with a custom payment form and role-based admin dashboard, enabling the business to process real transactions with controlled access
+- Built a Laravel-based website for a multi-service ebook brand with a conversion-focused design system supporting the client's full catalog
+- Delivered a fully responsive corporate website, including service pages, a dedicated team section, and mobile-first layouts
+
+`PHP` `Laravel` `JavaScript` `React.js` `Next.js` `MySQL` `PostgreSQL` `Supabase` `Bootstrap` `Blade Templates` `WordPress` `REST API Integration` `AWS Foundations` `Linux/VPS Administration` `Git` `Data Analysis`
+
+---
+
+<div align="center">
+
+### Web Developer
+**Digithronex** | Karachi, Pakistan
+`Dec 2025 – Apr 2026`
+
+</div>
+
+- Built a full business and product website for a UAE lighting-solutions company using React/JavaScript (front-end) and PHP/MySQL (back-end), creating a live product catalog and customer inquiry system
+- Developed a coupon marketplace platform from scratch, implementing user authentication, brand listings, and a full admin dashboard in PHP, MySQL, and Bootstrap
+- Managed end-to-end delivery of client projects across PHP, React, Next.js, and Shopify, maintaining on-time deployment throughout
+
+**Languages & Frameworks:** PHP, Laravel, JavaScript, React.js, Next.js, Node.js
+**Databases:** MySQL, PostgreSQL, Supabase
+**Front-End:** Tailwind CSS, Bootstrap, Blade Templates, Responsive/Mobile-First Design
+**CMS & E-Commerce:** WordPress, WooCommerce
+**Other:** REST API Integration, AWS Foundations, Linux/VPS Administration, Git, Data Analysis
+
+---
+
+<div align="center">
+
+### Data Entry Specialist
+**R.A Bell's** | Karachi, Pakistan
+`Jan 2025 – Dec 2025`
+
+</div>
+
+- Maintained accurate production and inventory records for a garment manufacturing operation using Excel and Google Sheets, supporting quality-control decisions over a 1-year engagement
+
+`MS Office` `Data Management` `Order Management`
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏅 AI Seekho 2026 — Google Antigravity National Hackathon | Built and submitted CIRO, an AI-powered urban crisis management platform for Karachi; received participation certificate |
+| 🌐 Multi-Country Client Delivery | Delivered production web applications for clients across Pakistan, UAE, Canada, and the UK |
+| 🔧 Infrastructure Migration | Migrated 8 production databases and 3 client sites from shared hosting to a new host with zero data loss |
+
+</div>
+
+<br/>
+
+## 📜 Certifications
+
+**Google**
+<br/>
+<img src="https://img.shields.io/badge/Google-AI_Essentials-6D28D9?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Use_AI_Responsibly-7C3AED?style=flat-square&logo=google&logoColor=white"/>
+
+**AWS**
+<br/>
+<img src="https://img.shields.io/badge/AWS-Foundations-8B5CF6?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+**Microsoft**
+<br/>
+<img src="https://img.shields.io/badge/Microsoft-AI_for_Beginners-A78BFA?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Data_Science_%26_Analytics-6D28D9?style=flat-square&logo=microsoft&logoColor=white"/>
+
+**Aptech**
+<br/>
+<img src="https://img.shields.io/badge/Aptech-Certified_Web_Developer-7C3AED?style=flat-square"/>
+
+**HP LIFE**
+<br/>
+<img src="https://img.shields.io/badge/HP_LIFE-Social_Media_Marketing-8B5CF6?style=flat-square&logo=hp&logoColor=white"/>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muneebcodes&show_icons=true&theme=dracula&hide_border=true&bg_color=0f0520&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9&ring_color=7C3AED" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=muneebcodes&theme=dark&hide_border=true&background=0f0520&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebcodes&layout=compact&theme=dracula&hide_border=true&bg_color=0f0520&title_color=A78BFA&text_color=c9c9c9" width="49%"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muneebcodes&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muneebcodes&theme=react-dark&hide_border=true&bg_color=0f0520&color=A78BFA&line=8B5CF6&point=c9a7ff" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/muneebcodes/muneebcodes/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced agentic AI workflows and tool-orchestration patterns
+  - System design for multi-tenant SaaS architecture
+
+Building:
+  - ClientFlow — white-labeled B2B SaaS onboarding portal
+  - muneeb.codes — personal portfolio (Next.js 14, Framer Motion)
+
+Exploring:
+  - LLM-integrated product features (AI profiling, AI-generated summaries)
+  - Open source contribution opportunities
+
+Open To:
+  - Full-stack / backend engineering roles
+  - Freelance and contract opportunities
+  - AI-integrated product collaborations
+```
+
+<br/>
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:hi@muneeb.codes"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/muneeb-codes"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/muneebcodes"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://muneeb.codes"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Code is the closest thing we have to turning ideas into reality."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0520,50:2d0a4e,100:1a0033&height=120&section=footer" width="100%"/>
+
+</div>
